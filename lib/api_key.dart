@@ -1,3 +1,3 @@
 class APIKey {
-  static const apiKey = "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";
+  static const apiKey = "OPEN_AI_API_KEY";
 }
