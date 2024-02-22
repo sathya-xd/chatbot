@@ -1,2 +1,2 @@
 # chatbot
-api key is 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
+api key is "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"
